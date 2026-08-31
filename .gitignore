@@ -1,0 +1,4 @@
+incident_event_log.csv
+incident_risk_analysis.csv
+__pycache__/
+*.pyc
