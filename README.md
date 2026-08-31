@@ -40,7 +40,7 @@ The Power BI dashboard provides four headline KPIs:
 
 It also compares SLA failure by operational risk score and by assignment group, with a minimum-volume filter to avoid overemphasizing tiny groups.
 
-![Dashboard](dashboard.png)
+![Dashboard](Dashboard.png)
 
 ## Risk-score logic
 
